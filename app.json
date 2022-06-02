@@ -7,36 +7,36 @@
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "5450825856:AAHXxZ8Fq8anyyQxo8Pr-ktVE_gKYmFz-Hs"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
-      "value": "youtubeitbot",
+      "value": "Youtube_uploader_by_ravi_bot",
       "required":false
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "13310536"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "9fbe7aa7be157c3f33fc72c567a272c6"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "371484587288-248girepu17pinukpbgn3perk189esc1.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "2099564679"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
-      "value": "",
+      "value": "2099564679",
       "required":false
     },
     "VIDEO_DESCRIPTION": {
