@@ -9,7 +9,7 @@
       "description": "Your Bot token. Get from https://t.me/botfather",
       "value": "5450825856:AAHXxZ8Fq8anyyQxo8Pr-ktVE_gKYmFz-Hs"
     },
-    "session_name": {
+    "SESSION_NAME": {
       "description": "Your Bot's username.",
       "value": "Youtube_uploader_by_ravi_bot",
       "required":false
